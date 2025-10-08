@@ -21,7 +21,7 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white&style=plastic)
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=white&style=plastic)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-lightblue?logo=dotnet&logoColor=purple&style=plastic)
-![Arduino](https://img.shields.io/badge/Arduino-turqoise?logo=arduino&logoColor=white&style=plastic)
+![Arduino](https://img.shields.io/badge/Arduino-turquoise?logo=arduino&logoColor=white&style=plastic)
 
 ---
 ### **Project Types:**
