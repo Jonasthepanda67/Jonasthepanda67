@@ -39,7 +39,7 @@ A Big Data console app using Specter Console to visualize API-collected statisti
 I've also worked on SQL-heavy applications, basic HTML pages, and various experimental builds. Check out my repositories for more!
 
 ## My Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonasthepanda67&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 Feel free to reach out or explore my work:
