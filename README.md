@@ -4,7 +4,7 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 
 ## 🛠️ Technologies I've Worked With
 - **Languages:**
----
+--
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=plastic)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic)
@@ -12,16 +12,19 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=plastic)
 ![SQL](https://img.shields.io/badge/SQL-00599C?logo=sqlite&logoColor=orange&style=plastic)
 ![Markdown](https://img.shields.io/badge/Markdown-00599C?logo=markdown&logoColor=black&style=plastic)
-- **Frameworks & Tools:**
 ---
+- **Frameworks & Tools:**
+--
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=plastic)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=plastic)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?logo=dotnet&logoColor=white&style=plastic)
-- **Project Types:**
 ---
+- **Project Types:**
+--
 Blazor, Razor Pages, WinForms, WPF, Console Apps, Arduino IDE, Windows Services, Embedded C++.
+---
 
 ## 🚀 Selected Projects
 
@@ -39,6 +42,7 @@ An embedded C++ project with an OLED menu showing time, date, temperature, and h
 
 ### 📊 Faceit Stats Tracker
 A Big Data console application that ingests API data and presents processed results using Spectre.Console for clear, colorful terminal visualizations.
+---
 
 ## ⚙️ Capabilities
 
@@ -57,6 +61,7 @@ A Big Data console application that ingests API data and presents processed resu
 - **What I can build for you:** internal admin tools, order/workflow systems, small SaaS prototypes, data collection and reporting tools, proof-of-concept IoT devices, and custom desktop utilities.
 
 I keep expanding capabilities and can adopt new stacks as required to deliver the right solution.
+---
 
 ## 📚 Learning & Goals
 
@@ -65,6 +70,7 @@ I keep expanding capabilities and can adopt new stacks as required to deliver th
 ### **Short-term goals:** Ship a full end-to-end SaaS prototype and contribute to an open-source project.
 
 ### **Long-term goals:** Work on scalable systems and embedded products with meaningful user impact.
+---
 
 ## 📫 Let's Connect
 Feel free to reach out or explore my work:
