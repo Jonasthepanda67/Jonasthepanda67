@@ -6,22 +6,22 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ### **Languages:**
 
 ![C#](https://img.shields.io/badge/C%23-8A2BE2?logo=csharp&logoColor=purple&style=plastic)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-YELLOW?logo=javascript&logoColor=black&style=plastic)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&logoColor=black&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=plastic)
 ![CSS](https://img.shields.io/badge/CSS-black?logo=css&logoColor=lightblue&style=plastic)
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white&style=plastic)
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=sqlite&logoColor=white&style=plastic)
-![Markdown](https://img.shields.io/badge/Markdown-white?logo=markdown&logoColor=black&style=plastic)
+![Markdown](https://img.shields.io/badge/MARKDOWN-white?logo=markdown&logoColor=black&style=plastic)
 
 ---
 ### **Frameworks & Tools:**
 
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white&style=plastic)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=plastic)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white&style=plastic)
+![Git](https://img.shields.io/badge/GIT-orange?logo=git&logoColor=white&style=plastic)
+![GitHub](https://img.shields.io/badge/GITHUB-black?logo=github&logoColor=white&style=plastic)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-purple?logo=bootstrap&logoColor=white&style=plastic)
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=blue&style=plastic)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-white?logo=dotnet&logoColor=purple&style=plastic)
-![Arduino](https://img.shields.io/badge/Arduino-turquoise?logo=arduino&logoColor=white&style=plastic)
+![Entity Framework](https://img.shields.io/badge/ENTITY%20FRAMEWORK-white?logo=dotnet&logoColor=purple&style=plastic)
+![Arduino](https://img.shields.io/badge/ARDUINO-turquoise?logo=arduino&logoColor=white&style=plastic)
 
 ---
 ### **Project Types:**
