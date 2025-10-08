@@ -26,14 +26,14 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ---
 ### **Project Types:**
 
-![Blazor](https://img.shields.io/badge/Blazor-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![Razor Pages](https://img.shields.io/badge/Razor%20Pages-.NET-007ACC?logo=dotnet&logoColor=white&style=for-the-badge)
-![WinForms](https://img.shields.io/badge/WinForms-.NET-0078D7?logo=windows&logoColor=white&style=for-the-badge)
-![WPF](https://img.shields.io/badge/WPF-.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge)
-![Console](https://img.shields.io/badge/Console-App-333333?logo=terminal&logoColor=white&style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-IoT-00979D?logo=arduino&logoColor=white&style=for-the-badge)
-![Windows Service](https://img.shields.io/badge/Windows%20Service-Service-0078D7?logo=windows&logoColor=white&style=for-the-badge)
-![Embedded C++](https://img.shields.io/badge/Embedded-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Blazor](https://img.shields.io/badge/Blazor-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![Razor Pages](https://img.shields.io/badge/Razor%20Pages-.NET-007ACC?logo=dotnet&logoColor=white&style=flat)
+![WinForms](https://img.shields.io/badge/WinForms-.NET-0078D7?logo=windows&logoColor=white&style=flat)
+![WPF](https://img.shields.io/badge/WPF-.NET-512BD4?logo=.net&logoColor=white&style=flat)
+![Console](https://img.shields.io/badge/Console-App-333333?logo=terminal&logoColor=white&style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-IoT-00979D?logo=arduino&logoColor=white&style=flat)
+![Windows Service](https://img.shields.io/badge/Windows%20Service-Service-0078D7?logo=windows&logoColor=white&style=flat)
+![Embedded C++](https://img.shields.io/badge/Embedded-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat)
 
 ---
 
