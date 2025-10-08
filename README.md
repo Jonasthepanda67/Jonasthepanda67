@@ -26,7 +26,7 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ---
 ### **Project Types:**
 
-![Blazor](https://img.shields.io/badge/Blazor-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![Blazor](https://img.shields.io/badge/Blazor-.NET-512BD4?style=flat)
 ![Razor Pages](https://img.shields.io/badge/Razor%20Pages-.NET-007ACC?logo=dotnet&logoColor=white&style=flat)
 ![WinForms](https://img.shields.io/badge/WinForms-.NET-0078D7?logo=windows&logoColor=white&style=flat)
 ![WPF](https://img.shields.io/badge/WPF-.NET-512BD4?logo=.net&logoColor=white&style=flat)
