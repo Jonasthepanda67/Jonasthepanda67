@@ -27,10 +27,10 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ### **Project Types:**
 
 ![Blazor](https://img.shields.io/badge/Blazor-.NET-512BD4?style=flat)
-![Razor Pages](https://img.shields.io/badge/Razor%20Pages-.NET-007ACC?logo=dotnet&logoColor=white&style=flat)
-![WinForms](https://img.shields.io/badge/WinForms-.NET-0078D7?logo=windows&logoColor=white&style=flat)
-![WPF](https://img.shields.io/badge/WPF-.NET-512BD4?logo=.net&logoColor=white&style=flat)
-![Console](https://img.shields.io/badge/Console-App-333333?logo=terminal&logoColor=white&style=flat)
+![Razor Pages](https://img.shields.io/badge/Razor%20Pages-.NET-007ACC?style=flat)
+![WinForms](https://img.shields.io/badge/WinForms-.NET-0078D7?style=flat)
+![WPF](https://img.shields.io/badge/WPF-.NET-512BD4?style=flat)
+![Console](https://img.shields.io/badge/Console-App-333333?style=flat)
 ![Arduino](https://img.shields.io/badge/Arduino-IoT-00979D?logo=arduino&logoColor=white&style=flat)
 ![Windows Service](https://img.shields.io/badge/Windows%20Service-Service-0078D7?logo=windows&logoColor=white&style=flat)
 ![Embedded C++](https://img.shields.io/badge/Embedded-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat)
