@@ -2,6 +2,8 @@
 
 I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway through a 5–5.5 year program. I build practical, user-focused software and embedded solutions, and I enjoy turning ideas into reliable, maintainable products while continuously learning new technologies.
 
+---
+
 ## 🛠️ Technologies I've Worked With
 ### **Languages:**
 
@@ -13,7 +15,6 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=sqlite&logoColor=white&style=plastic)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-white?logo=markdown&logoColor=black&style=plastic)
 
----
 ### **Frameworks & Tools:**
 
 ![Git](https://img.shields.io/badge/GIT-orange?logo=git&logoColor=white&style=plastic)
@@ -23,7 +24,6 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ![Entity Framework](https://img.shields.io/badge/ENTITY%20FRAMEWORK-white?logo=dotnet&logoColor=purple&style=plastic)
 ![Arduino](https://img.shields.io/badge/ARDUINO-turquoise?logo=arduino&logoColor=white&style=plastic)
 
----
 ### **Project Types:**
 
 ![Blazor](https://img.shields.io/badge/Blazor-.NET-512BD4?style=flat)
