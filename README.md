@@ -9,7 +9,7 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=plastic)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=plastic)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=lightblue&style=plastic)
 ![SQL](https://img.shields.io/badge/SQL-00599C?logo=sqlite&logoColor=orange&style=plastic)
 ![Markdown](https://img.shields.io/badge/Markdown-00599C?logo=markdown&logoColor=black&style=plastic)
 
