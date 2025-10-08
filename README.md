@@ -6,21 +6,21 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ### **Languages:**
 
 ![C#](https://img.shields.io/badge/C%23-8A2BE2?logo=csharp&logoColor=purple&style=plastic)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=yellow&style=plastic)
-![HTML](https://img.shields.io/badge/HTML5-FFFFFF?logo=html5&logoColor=orange&style=plastic)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=yellow&style=plastic)
+![HTML](https://img.shields.io/badge/HTML5-white?logo=html5&logoColor=orange&style=plastic)
 ![CSS](https://img.shields.io/badge/CSS-white?logo=css&logoColor=lightblue&style=plastic)
-![C++](https://img.shields.io/badge/C++-FFFFFF?logo=cplusplus&logoColor=blue&style=plastic)
-![SQL](https://img.shields.io/badge/SQL-FFFFFF?logo=sqlite&logoColor=orange&style=plastic)
-![Markdown](https://img.shields.io/badge/Markdown-FFFFFF?logo=markdown&logoColor=black&style=plastic)
+![C++](https://img.shields.io/badge/C++-white?logo=cplusplus&logoColor=blue&style=plastic)
+![SQL](https://img.shields.io/badge/SQL-white?logo=sqlite&logoColor=orange&style=plastic)
+![Markdown](https://img.shields.io/badge/Markdown-white?logo=markdown&logoColor=black&style=plastic)
 
 ---
 ### **Frameworks & Tools:**
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=orange&style=plastic)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=plastic)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=purple&style=plastic)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=orange&style=plastic)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?logo=dotnet&logoColor=blue&style=plastic)
+![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=orange&style=plastic)
+![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=white&style=plastic)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&logoColor=purple&style=plastic)
+![SQL](https://img.shields.io/badge/SQL-white?logo=mysql&logoColor=orange&style=plastic)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-white?logo=dotnet&logoColor=blue&style=plastic)
 
 ---
 ### **Project Types:**
