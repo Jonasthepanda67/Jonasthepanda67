@@ -87,7 +87,11 @@ I keep expanding capabilities and can adopt new stacks as required to deliver th
 ---
 
 ## 📫 Let's Connect
+
 Feel free to reach out or explore my work:
+
 **LinkedIn:** [LinkedIn](#)
+
 **Portfolio:** [Portfolio Website](#)
+
 **Email:** [Email](mailto:jonasfpetersen1@gmail.com)
