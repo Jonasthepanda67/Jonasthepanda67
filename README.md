@@ -90,8 +90,8 @@ I keep expanding capabilities and can adopt new stacks as required to deliver th
 
 Feel free to reach out or explore my work:
 
-**LinkedIn:** [LinkedIn](#)
+ℹ️ **LinkedIn:** [LinkedIn](#)
 
-**Portfolio:** [Portfolio Website](#)
+🗃️ **Portfolio:** [Portfolio Website](#)
 
-**Email:** [Email](mailto:jonasfpetersen1@gmail.com)
+📩 **Email:** [Email](mailto:jonasfpetersen1@gmail.com)
