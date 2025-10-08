@@ -4,14 +4,18 @@ I'm a passionate developer currently halfway through my education, with hands-on
 
 ## 🛠️ Technologies I've Worked With
 - **Languages:**
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=plastic)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=social)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-00599C?logo=sqlite&logoColor=orange&style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Markdown-00599C?logo=markdown&logoColor=black&style=for-the-badge)
-- **Frameworks & Tools:** Bootstrap, WPF, Entity Framework, Git, GitHub
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=plastic)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=plastic)
+![SQL](https://img.shields.io/badge/SQL-00599C?logo=sqlite&logoColor=orange&style=plastic)
+![Markdown](https://img.shields.io/badge/Markdown-00599C?logo=markdown&logoColor=black&style=plastic)
+- **Frameworks & Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=plastic)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=plastic)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=plastic)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?logo=dotnet&logoColor=white&style=plastic)
 - **Project Types:** Blazor, Razor Pages, WinForms, Console Apps, Arduino IDE, Windows Services
 
 ## 🚀 Projects
