@@ -8,9 +8,9 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ![C#](https://img.shields.io/badge/C%23-8A2BE2?logo=csharp&logoColor=purple&style=plastic)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML5-white?logo=html5&logoColor=orange&style=plastic)
-![CSS](https://img.shields.io/badge/CSS-white?logo=css&logoColor=lightblue&style=plastic)
+![CSS](https://img.shields.io/badge/CSS-lightblue?logo=css&logoColor=white&style=plastic)
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white&style=plastic)
-![SQL](https://img.shields.io/badge/SQL-white?logo=sqlite&logoColor=orange&style=plastic)
+![SQL](https://img.shields.io/badge/SQL-orange?logo=sqlite&logoColor=black&style=plastic)
 ![Markdown](https://img.shields.io/badge/Markdown-white?logo=markdown&logoColor=black&style=plastic)
 
 ---
@@ -19,8 +19,8 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white&style=plastic)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=plastic)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white&style=plastic)
-![SQL](https://img.shields.io/badge/SQL-white?logo=mysql&logoColor=orange&style=plastic)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-blue?logo=dotnet&logoColor=purple&style=plastic)
+![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=white&style=plastic)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-lightblue?logo=dotnet&logoColor=purple&style=plastic)
 ![Arduino](https://img.shields.io/badge/Arduino-turqoise?logo=arduino&logoColor=white&style=plastic)
 
 ---
