@@ -71,11 +71,11 @@ I keep expanding capabilities and can adopt new stacks as required to deliver th
 
 ## 📚 Learning & Goals
 
-#### **Currently exploring:** Advanced Blazor patterns, CI/CD with GitHub Actions, microservices fundamentals, and modern frontend tooling.
+**Currently exploring:** Advanced Blazor patterns, CI/CD with GitHub Actions, microservices fundamentals, and modern frontend tooling.
 
-#### **Short-term goals:** Ship a full end-to-end SaaS prototype and contribute to an open-source project.
+**Short-term goals:** Ship a full end-to-end SaaS prototype and contribute to an open-source project.
 
-#### **Long-term goals:** Work on scalable systems and embedded products with meaningful user impact.
+**Long-term goals:** Work on scalable systems and embedded products with meaningful user impact.
 
 ---
 
