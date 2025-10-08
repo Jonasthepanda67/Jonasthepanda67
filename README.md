@@ -31,9 +31,9 @@ I'm a Datatechnician student at EUC Syd, Sønderborg, Denmark, currently halfway
 ![WinForms](https://img.shields.io/badge/WinForms-.NET-0078D7?style=flat)
 ![WPF](https://img.shields.io/badge/WPF-.NET-512BD4?style=flat)
 ![Console](https://img.shields.io/badge/Console-App-333333?style=flat)
-![Arduino](https://img.shields.io/badge/Arduino-IoT-00979D?logo=arduino&logoColor=white&style=flat)
-![Windows Service](https://img.shields.io/badge/Windows%20Service-Service-0078D7?logo=windows&logoColor=white&style=flat)
-![Embedded C++](https://img.shields.io/badge/Embedded-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-IoT-00979D?style=flat)
+![Windows Service](https://img.shields.io/badge/Windows%20Service-Service-0078D7?style=flat)
+![Embedded C++](https://img.shields.io/badge/Embedded-C%2B%2B-00599C?style=flat)
 
 ---
 
